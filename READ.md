@@ -1,1 +1,1 @@
-This was a clock created using JacaScript to consolidate my learning of Date & Time.
+This was a clock created using JavaScript to consolidate my learning of Date & Time.
